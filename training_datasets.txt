@@ -1,0 +1,210 @@
+The product quality exceeds expectations,0,2
+Customer service took days to respond,1,0
+Looking for general information about policies,2,1
+The new features are fantastic,0,2
+Support team resolved my issue immediately,1,2
+Company announcement regarding updates,2,1
+Product stopped working after a week,0,0
+Service representative was very helpful,1,2
+Requesting information about shipping,2,1
+This item is not worth the price,0,0
+Quick and efficient customer support,1,2
+General inquiry about business hours,2,1
+Amazing product performance,0,2
+Service team ignored my emails,1,0
+Regular newsletter subscription,2,1
+Product design is innovative,0,2
+Poor response from support team,1,0
+Standard company announcement,2,1
+Defective product received,0,0
+Outstanding customer service experience,1,2
+General feedback submission,2,1
+Product exceeds industry standards,0,2
+Service staff was unprofessional,1,0
+Policy update notification,2,1
+High-quality product materials,0,2
+Fast and courteous service,1,2
+General question about returns,2,1
+Product durability is questionable,0,0
+Excellent support team response,1,2
+Monthly company newsletter,2,1
+Product features are impressive,0,2
+Delayed service response time,1,0
+Seeking general information,2,1
+Product meets all my needs,0,2
+Support team was knowledgeable,1,2
+Regular maintenance announcement,2,1
+Product arrived damaged,0,0
+Great customer service team,1,2
+General inquiry submission,2,1
+Product quality is superior,0,2
+Service resolution was slow,1,0
+Standard policy update,2,1
+Exceptional product value,0,2
+Professional service delivery,1,2
+General feedback about website,2,1
+Product doesn't match description,0,0
+Responsive customer support,1,2
+Company news update,2,1
+Product performance is excellent,0,2
+Poor service experience,1,0
+General account inquiry,2,1
+Outstanding product quality,0,2
+Prompt service resolution,1,2
+System maintenance notice,2,1
+Product has design flaws,0,0
+Helpful support staff,1,2
+General question submitted,2,1
+Premium product features,0,2
+Service was disappointing,1,0
+Regular update notification,2,1
+Product works perfectly,0,2
+Excellent service quality,1,2
+General feedback form,2,1
+Product malfunction issues,0,0
+Support exceeded expectations,1,2
+Company announcement,2,1
+Top-notch product design,0,2
+Unresponsive service team,1,0
+General inquiry about hours,2,1
+Product is well-crafted,0,2
+Quick service turnaround,1,2
+Standard notification,2,1
+Product doesn't work properly,0,0
+Outstanding support experience,1,2
+General questions asked,2,1
+High-end product quality,0,2
+Service needs improvement,1,0
+Regular updates shared,2,1
+Product is fantastic,0,2
+Efficient service delivery,1,2
+General information request,2,1
+Product broke quickly,0,0
+Excellent customer care,1,2
+Standard announcement,2,1
+Superior product design,0,2
+Poor customer service,1,0
+General policy question,2,1
+Product works great,0,2
+Fast service response,1,2
+Company update shared,2,1
+Faulty product received,0,0
+Professional support team,1,2
+General inquiry made,2,1
+Premium product quality,0,2
+Service was inadequate,1,0
+Regular notification sent,2,1
+Product is outstanding,0,2
+Exceptional service quality,1,2
+General feedback provided,2,1
+Product quality issues,0,0
+Great support experience,1,2
+Standard update shared,2,1
+Product is excellent,0,2
+Slow service response,1,0
+General question asked,2,1
+The product quality far exceeds my expectations and I am thoroughly impressed with its performance,0,2
+I have been trying to reach customer service for over a week with no response or acknowledgment,1,0
+I would like to request some general information about your company's return and refund policies,2,1
+The new features implemented in this product have made my daily tasks significantly more efficient,0,2
+The support team handled my complex technical issue and resolved it within just a few hours,1,2
+This is a general announcement regarding upcoming changes to our business operating hours,2,1
+Unfortunately the product stopped working completely after only a week of normal use,0,0
+I really appreciate how the service representative went above and beyond to solve my problem,1,2
+Could you please provide detailed information about your international shipping options and rates,2,1
+I regret to say this item is definitely not worth the premium price being charged,0,0
+The customer support team provided quick and efficient solutions to all my concerns,1,2
+I am writing to inquire about your business hours during the upcoming holiday season,2,1
+I am amazed by the exceptional performance and reliability of this product so far,0,2
+The service team has completely ignored my emails for the past three weeks now,1,0
+Would like to sign up for your regular newsletter to receive company updates,2,1
+The innovative design of this product has significantly improved my workflow efficiency,0,2
+Your support team's response to my urgent inquiry was disappointingly slow and unhelpful,1,0
+We are sharing this standard company announcement regarding our quarterly performance update,2,1
+I received a completely defective product that doesn't match the advertised specifications at all,0,0
+The customer service experience exceeded my expectations in every possible way today,1,2
+I would like to submit some general feedback about my overall experience with your company,2,1
+This product consistently exceeds industry standards and outperforms all its competitors in my testing,0,2
+The service staff was extremely unprofessional and dismissive of my legitimate concerns today,1,0
+Important notification regarding upcoming changes to our privacy policy and terms of service,2,1
+The quality of materials used in this product is exceptional and built to last,0,2
+I received incredibly fast and courteous service from your technical support department today,1,2
+I have some general questions about your return policy for items bought online,2,1
+The durability of this product is questionable as it started showing wear after minimal use,0,0
+Your support team provided excellent and thorough responses to all my technical questions,1,2
+Please find attached our monthly company newsletter with important updates and announcements,2,1
+All the features in this product work seamlessly together and enhance my productivity significantly,0,2
+The response time from your service department has been unacceptably slow this week,1,0
+I am seeking some general information about your company's sustainability initiatives and practices,2,1
+This product perfectly meets all my needs and has improved my daily workflow considerably,0,2
+The support team demonstrated impressive knowledge and helped resolve my issue quickly,1,2
+We are conducting regular system maintenance to improve our online banking services,2,1
+The product arrived in damaged condition and missing several essential components,0,0
+Your customer service team has been consistently helpful and professional throughout this process,1,2
+I would like to submit a general inquiry about potential partnership opportunities,2,1
+The superior quality of this product makes it stand out from all other options,0,2
+It took over two weeks to get any kind of resolution for my service request,1,0
+We are implementing standard policy updates to improve our customer experience,2,1
+The exceptional value provided by this product has made a significant impact,0,2
+Your team delivered professional service that exceeded my expectations completely,1,2
+I have some general feedback regarding the usability of your website interface,2,1
+The product description was misleading and doesn't match what was actually delivered,0,0
+Your customer support team responded quickly and effectively to my urgent request,1,2
+Important company news update regarding our expansion into international markets,2,1
+The performance of this product has significantly improved my daily work efficiency,0,2
+My recent service experience was frustrating and failed to address my concerns,1,0
+I need to make a general inquiry about my account status and recent activities,2,1
+The outstanding quality of this product justifies its premium price point completely,0,2
+Your team provided prompt service resolution that exceeded my expectations today,1,2
+System maintenance notice: our online services will be temporarily unavailable tomorrow,2,1
+This product has several design flaws that make it difficult to use effectively,0,0
+The support staff was incredibly helpful and patient in resolving my technical issues,1,2
+I have submitted a general question about your company's environmental initiatives,2,1
+The premium features included in this product offer exceptional value for money,0,2
+My service experience was disappointing and failed to resolve my basic issues,1,0
+Regular update notification: we are improving our online booking system next week,2,1
+This product works perfectly and has improved my productivity significantly,0,2
+The service quality I received today was excellent and highly professional,1,2
+Please review our general feedback form regarding recent community events,2,1
+I experienced serious malfunction issues with the product right after purchase,0,0
+Your support team exceeded my expectations in handling my complex technical issue,1,2
+Important company announcement regarding upcoming leadership changes and restructuring,2,1
+The sophisticated design of this product shows impressive attention to detail,0,2
+The service team has been completely unresponsive to my urgent support requests,1,0
+General inquiry about your extended business hours during the holiday season,2,1
+This well-crafted product demonstrates exceptional quality and attention to detail,0,2
+Your team provided impressively quick service turnaround for my urgent request,1,2
+Standard notification regarding updates to our membership rewards program terms,2,1
+The product stopped working properly after just a few days of normal use,0,0
+The support experience was outstanding and resolved all my concerns effectively,1,2
+I have several general questions about your company's training programs,2,1
+The high-end quality of this product makes it worth every penny spent,0,2
+Your service department needs significant improvement in response time and effectiveness,1,0
+Regular updates shared regarding our upcoming community engagement initiatives,2,1
+This fantastic product has completely transformed my daily work routine,0,2
+The service delivery was efficient and exceeded my expectations significantly,1,2
+Requesting general information about your company's volunteer programs and initiatives,2,1
+The product broke down quickly and customer support has been unhelpful,0,0
+Your customer care team provided excellent support throughout the entire process,1,2
+Standard announcement about our upcoming annual stakeholder meeting next month,2,1
+The superior design of this product shows incredible attention to detail,0,2
+I received very poor customer service when trying to resolve my account issues,1,0
+General policy question regarding your updated terms of service agreement,2,1
+This product works great and has significantly improved my daily routine,0,2
+The service response was impressively fast and solved my problem completely,1,2
+Company update shared regarding our recent environmental sustainability achievements,2,1
+I received a faulty product and replacement process has been frustrating,0,0
+The support team demonstrated highly professional handling of my complex issue,1,2
+General inquiry made regarding your company's upcoming community events calendar,2,1
+The premium quality of this product exceeds all my initial expectations,0,2
+The service was inadequate and failed to address my basic concerns,1,0
+Regular notification sent about upcoming changes to our loyalty program benefits,2,1
+This outstanding product has revolutionized how I approach my daily tasks,0,2
+The service quality was exceptional and resolved my issues promptly,1,2
+General feedback provided about your recent customer appreciation event,2,1
+There are serious quality issues with this product that need attention,0,0
+The support experience was great and exceeded my expectations completely,1,2
+Standard update shared about our improved online scheduling system features,2,1
+This excellent product provides exceptional value for its premium price,0,2
+The service response was unacceptably slow and largely unhelpful,1,0
+Submitting a general question about your updated privacy policy terms,2,1
